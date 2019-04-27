@@ -18,3 +18,9 @@ Give examples
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
+
+
+#### Ver para hacer xd
+
+
+[link ] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md) -Link
