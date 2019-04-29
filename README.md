@@ -33,7 +33,7 @@ Posteriormente ir a la carpeta base del proyecto y por línea de comandos **CMD*
 mvn compile assembly:single
 ```
 
-Esto generara una nueva carpeta TARGET y encontrara adentro un archivo llamado: **resuelveExercise.jar** 
+Esto generara una nueva carpeta target (ya incluida en el repositorio) y encontrara adentro un archivo llamado: **resuelveExercise.jar** 
 Mediante CMD navegar hasta la misma carpeta donde se encuentre el jar y ejecutar el comando:
 
 ```
@@ -45,5 +45,5 @@ Esto ejecutara el programa pra calcular los salarios  y creara el archivo **outp
 **Antes de ejecutar el programa asegúrese que el archivo input.json este en la misma carpeta que el jar**
 
 #### Correr el proyecto
-Para correr el proyecto sin compilarlo solo descargar el archivo .jar [Link](https://github.com/pumasbra/pruebaVer.git).
+Para correr el proyecto sin compilarlo solo descargar el archivo .jar [Link](https://github.com/pumasbra/pruebaVer/blob/master/target/resuelveExercise.jar).
 Y desde CMD use el comando que se dijo anteriormente, sin olvidar el archivo input.json.
