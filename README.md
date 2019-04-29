@@ -15,7 +15,7 @@ ya que el proyecto se desarrolló en el S.O. Windows 10.
 
 ## Instalar 
 * [Instalar Java](https://www.ecodeup.com/descargar-instalar-java-8/) - Tutorial como intalar y configurar correctamente Java
-* [Instalar Maven](https://myhanoli.com/2018/06/23/como-instalar-maven-en-windows/) - Tutorial como instalar y configurar correctamente Maven
+* [Instalar Maven](https://www.mkyong.com/maven/how-to-install-maven-in-windows/) - Tutorial como instalar y configurar correctamente Maven
 * [* Descargar IDE Eclipse](https://www.eclipse.org/downloads/) - (Opcional)Descargar IDE Eclipse si quiere modificar código fuente
 
 ### Como compilar el proyecto 
